@@ -17,7 +17,7 @@
             "role": "Developer"
         }
     ],
-    "homepage": "https://github.com/BombenProdukt/blade-icons-radix-icons",
+    "homepage": "https://github.com/faustbrian/blade-icons-radix-icons",
     "require": {
         "php": "^8.2",
         "illuminate/contracts": "^10.0",
